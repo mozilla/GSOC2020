@@ -10,9 +10,9 @@ As usual, this will be an opportunity to coach a smart student through three mon
 
 * the project is primarily a coding project, 
 * the proposal is well-scoped with clearly defined progress milestones and outcomes, taking roughly 3 months of effort for a capable student, and 
-* there is a mentor specifically assigned to the project who is available as a mentor for the duration. 
+* there is a mentor specifically assigned to the project who is available for the duration of GSOC.
 
-In particular, if you already have a student in mind for a specific project already, please start that discussion now. The student application period typically starts in March, but the sooner we have well-specified project ideas lined up with potential mentors, the better. 
+You may already have a student in mind for a specific project already; if so, please start that discussion now. The student application period typically starts in March, but the sooner we have well-specified project ideas lined up with potential mentors, the better. 
 
 Otherwise, please put your proposals here and feel free to bring us any questions you have about GSOC and Mozilla's participation in it.
 
@@ -25,10 +25,10 @@ Your first stop should be to look over the /proposals/ folder. Not all of those 
 *How To Write A Good Project Proposal*
 
 * Be specific: It's hard to understand the impact of, or the size of, vague proposals.
-* Consider size: The student has eight weeks to design, code, test and document the proposal. It needs to fill, but not overfill, that time.
+* Consider size: The student has approximately eight weeks to design, code, test and document the proposal. It needs to fill, but not overfill, that time.
 * Do your research: Support the idea with well-researched links to issues, bugs, patches, papers or pull requests.
-* Only put a name in the mentor slot - yours included - if you are willing to take on the responsibility. If you think the SoC admins won't know who you are, leave contact details.
-* Stay on top of your notifications: administrators may have questions about your idea that you will need to answer.
+* Only put a name in the mentor slot if you know they are willing to take on the responsibility. If you think the SoC admins won't know who you are, leave contact details.
+* Stay on top of your notifications: we may have questions about your idea that you will need to answer.
 
 ## Please note
 
