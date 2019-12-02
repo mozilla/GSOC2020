@@ -1,7 +1,9 @@
 # GSOC 2020 Proposal Template. Put your proposal name here
 
-### Mentor: Your name goes here
-### Email: Your email address goes here.
+### Mentor: A name 
+### Email: An email address 
+
+More than one mentor for a GSOC project is acceptable.
 
 ## Project Description 
 
@@ -9,7 +11,9 @@ This is where you describe your project in two or three sentences.
 
 ## Skills Required
 
-To complete this project successfully, an applicant needs experience with:
+A list of whatever skills, tools or experience somebody might need to complete this project successfully. 
+
+An applicant needs:
 
 * this
 * that
@@ -17,11 +21,10 @@ To complete this project successfully, an applicant needs experience with:
 
 ## Project Details
 
-This is where you describe your project in two or three paragraphs.
+This is where you describe your project in two or three paragraphs, or as many as you need.
 
 Please link up relevant bugs, issues or documentation.
 
 ## Additional Information
 
-Anything else?
-
+Anything else that might be helpful goes here.
