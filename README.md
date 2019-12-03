@@ -32,5 +32,5 @@ Your first stop should be to look over the /proposals/ folder. Not all of those 
 
 ## Please note
 
-* Participants in any Mozilla project are expected to respect and uphold the Mozilla Community Participation Guidelines [https://www.mozilla.org/en-US/about/governance/policies/participation/]
-* The GSOC FAQ is here available here: [https://developers.google.com/open-source/gsoc/faq]
+* Participants in any Mozilla project are expected to respect and uphold the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+* The [GSOC FAQ](https://developers.google.com/open-source/gsoc/faq)
