@@ -1,8 +1,8 @@
-# Mozilla and GSOC 2020
+# Mozilla and GSoC 2020
 
 Once again, Mozilla intends to apply to participate in Google's Summer Of Code.
 
-This is the first year that we've organized Mozilla's application to GSOC on Github. Mozilla community members, please put your ideas in the */proposals/* directory, in some suitably-titled file, so that we can evaluate them and polish them up.
+This is the first year that we've organized Mozilla's application to G0C on Github. Mozilla community members, please put your ideas in the */proposals/* directory, in some suitably-titled file, so that we can evaluate them and polish them up.
 
 ## For Mozillians, and friends of Mozilla:
 
@@ -10,11 +10,11 @@ As usual, this will be an opportunity to coach a smart student through three mon
 
 * the project is primarily a coding project, 
 * the proposal is well-scoped with clearly defined progress milestones and outcomes, taking roughly 3 months of effort for a capable student, and 
-* there is a mentor specifically assigned to the project who is available for the duration of GSOC.
+* there is a mentor specifically assigned to the project who is available for the duration of GSoC.
 
 You may already have a student in mind for a specific project already; if so, please start that discussion now. The student application period typically starts in March, but the sooner we have well-specified project ideas lined up with potential mentors, the better. 
 
-Otherwise, please put your proposals here and feel free to bring us any questions you have about GSOC and Mozilla's participation in it.
+Otherwise, please put your proposals here and feel free to bring us any questions you have about GSoC and Mozilla's participation in it.
 
 With all that in mind, we're now accepting project proposals, via pull request, to the */proposals/* directory of this repo.
 
@@ -33,4 +33,4 @@ Your first stop should be to look over the /proposals/ folder. Not all of those 
 ## Please note
 
 * Participants in any Mozilla project are expected to respect and uphold the Mozilla Community Participation Guidelines [https://www.mozilla.org/en-US/about/governance/policies/participation/]
-* The GSOC FAQ is here available here: [https://developers.google.com/open-source/gsoc/faq]
+* The GSoC FAQ is here available here: [https://developers.google.com/open-source/gsoc/faq]
