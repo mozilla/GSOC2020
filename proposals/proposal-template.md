@@ -1,11 +1,12 @@
 # GSOC 2020 Proposal Template. Put your proposal name here
 
-### Mentor: A name 
-### Email: An email address 
+**Mentor:** A name
+
+**Email:** An email address
 
 More than one mentor for a GSOC project is acceptable.
 
-## Project Description 
+## Project Description
 
 This is where you describe your project in two or three sentences.
 
