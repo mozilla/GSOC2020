@@ -32,4 +32,4 @@ Minimal expectation: WebRender on `gfx-backend-gl` passes the Wrench tests on Os
 
 ## Additional Information
 
-Logistically, the student would make changes in pull requests to the Szeged WR fork, gfx-rs repositories, and potentially some of their dependencies. They would communicate on [gitter](https://gitter.im/gfx-rs/gfx) to ask questions and get feedback, coordinating work with me as well as the Szeged team.
+Logistically, the student would make changes in pull requests to the Szeged WR fork, gfx-rs repositories, and potentially some of their dependencies. They would communicate on [Matrix](https://matrix.to/#/#gfx:matrix.org) to ask questions and get feedback, coordinating work with me as well as the Szeged team.
