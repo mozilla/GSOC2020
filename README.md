@@ -2,7 +2,7 @@
 
 Once again, Mozilla intends to apply to participate in Google's Summer Of Code.
 
-This is the first year that we've organized Mozilla's application to G0C on Github. Mozilla community members, please put your ideas in the */proposals/* directory, in some suitably-titled file, so that we can evaluate them and polish them up.
+This is the first year that we've organized Mozilla's application to GSoC on Github. Mozilla community members, please put your ideas in the */proposals/* directory, in some suitably-titled file, so that we can evaluate them and polish them up.
 
 ## For Mozillians, and friends of Mozilla:
 
