@@ -16,6 +16,7 @@ The ideal should be familiar with the following technologies:
 * Javascript (experience with NodeJS or React are a bonus)
 * Version control (preferably Git)
 * Relational databases (preferably MySQL)
+* Responsive design
 
 The ideal applicant should possess the following:
 
@@ -26,9 +27,9 @@ The ideal applicant should possess the following:
 
 ## Project Details
 
-Common Voice is a crowdsourcing platform for collecting and aggregating voluntary voice clips. The team frequently attends conferences, events, and community gatherings to demo the project and to encourage participation. Right now the website is neither optimized for a tablet view, nor does it have a demo-friendly workflow. The aim
+Common Voice is a crowdsourcing platform for collecting and aggregating voluntary voice clips. The team frequently attends conferences, events, and community gatherings to demo the project and to encourage participation. Right now the website is neither optimized for a tablet view, nor does it have a demo-friendly workflow.
 
-Sample designs for a Kiosk mode can be [seen on Figma (not finalized)](https://www.figma.com/file/noKMY6aOXz9vwxlkO0XZEl/kiosk-mode-demo-tablet?node-id=0%3A1). The actual implementation details will be determined in collaboration between the student and the mentor.
+Sample designs for a Kiosk mode can be [seen on Figma (not finalized)](https://www.figma.com/file/noKMY6aOXz9vwxlkO0XZEl/kiosk-mode-demo-tablet?node-id=0%3A1). The actual implementation details will be determined in collaboration between the student and the mentor (one possibility includes building a PWA).
 
 Here is a rough expected timeline for 12 weeks of work:
 
