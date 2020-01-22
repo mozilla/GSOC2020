@@ -30,6 +30,10 @@ Your first stop should be to look over the /proposals/ folder. Not all of those 
 * Only put a name in the mentor slot if you know they are willing to take on the responsibility. If you think the SoC admins won't know who you are, leave contact details.
 * Stay on top of your notifications: we may have questions about your idea that you will need to answer.
 
+## Are you a student with a great idea for a GSOC project?
+
+A mentioned above, while a GSOC project needs a mentor an idea doesn't need to come from Mozilla to be a viable GSOC project. That said, there are a lot of moving parts to Mozilla and figuring out who to talk to can be difficult even if you've got an amazing idea. If this is you, please start by *opening an issue describing your idea* so we can take a look at it. While we can't promise anything, if your idea looks promising we will do our best to connect you to somebody with domain-relevant experience to discuss turning it into a proposal.
+
 ## Please note
 
 * Participants in any Mozilla project are expected to respect and uphold the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
