@@ -6,7 +6,7 @@
 
 ## Project Description
 
-The home page for addons.mozilla.org (AMO) contains some dynamic content that is currently configured using a back end admin tool. This project would enhance that tool, and some of the capabilities of the home page.
+The home page for addons.mozilla.org (AMO), which receives hundreds of thousands of monthly visitors, contains some dynamic content that is currently configured using a back end admin tool. This project would enhance that tool, and some of the capabilities of the home page.
 
 ## Skills Required
 
