@@ -14,7 +14,7 @@ Alignment preview icons in CSS autocomplete menu
 ![Alignment preview icons](https://user-images.githubusercontent.com/63899/73089362-56e51a80-3ed6-11ea-92c6-01b4b04cfec8.png)
 
 Stretch goal: Alignment preview icons in Layout panel
-![Alignment preview icons in Layout panel](https://user-images.githubusercontent.com/63899/73089421-82680500-3ed6-11ea-9bd6-26c7bc64f3cf.png)
+![Alignment preview icons in Layout panel](https://user-images.githubusercontent.com/1190888/73101959-d23ad200-3ebe-11ea-9a6a-315dcb57d885.png)
 
 ## Skills Required
 
