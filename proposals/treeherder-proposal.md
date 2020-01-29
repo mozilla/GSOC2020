@@ -31,6 +31,8 @@ An applicant needs the following skills:
 
 ## Project Details
 
+NOTE: For potential contributors please read [this](https://gist.github.com/armenzg/f0c9c9012b141e941ae10896f79c2723).
+
 Setting up Treeherder locally has improved in the last year by introducing Docker. If you look at the
 [docker-compose.yml](https://github.com/mozilla/treeherder/blob/master/docker-compose.yml)
 file you will see that it starts up Redis, MySql, RabbitMq and even the frontend app.
