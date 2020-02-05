@@ -20,7 +20,7 @@ An applicant needs:
 
 ## Project Details
 
-Rav1e is currently getting basic wasm32-wasi support for its release 0.3.0.  The student task will require him to build upon it and improve its performance by adding WASM-SIMD and potential other WASM speed-ups like better threading, improved memory usage, etc.
+Rav1e is currently getting basic wasm32-wasi support for its release 0.3.0.  The student task will build upon it and improve the performance by adding WASM-SIMD and potential other WASM speed-ups like better threading, improved memory usage, etc.
 
 ### Milestones
 - Setup a system to profile and benchmark the WASM port.
