@@ -22,12 +22,15 @@ An applicant needs the following skills:
 * Familiarity with Source Docs Infrastructure
 * Enjoy working with others
 * Able to work remotely
+* Wrote a few patches on this project (ex: fixing warnings in the doc)
 
 ## Project Details
 
 Writing docs for Firefox's in-tree source docs can be time consuming and difficult.
 
 With MDN de-prioritizing build and workflow docs, we need a suitable replacement for all of Firefox's contribution and workflow documentation. The great advantage of documentation living in-tree, is that it can be updated along with the source. Unfortunately the current system to build and generate docs is difficult to write for and slow to build. Even if we made some progress in 2019, we want more developers creating or updating docs. Therefore, we want to make this easier.
+
+More info: [how to manage the doc](https://firefox-source-docs.mozilla.org/tools/moztreedocs/)
 
 The project will focus on:
 
