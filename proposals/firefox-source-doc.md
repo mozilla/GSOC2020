@@ -41,4 +41,5 @@ The project will focus on:
 * Develop a mechanism to import remaining docs from MDN into the source tree
 * Improve the caching mechanism when publishing a new documentation
 * Improve markdown support
+* Detect orphan pages
 
