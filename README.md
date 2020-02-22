@@ -20,7 +20,7 @@ With all that in mind, we're now accepting project proposals,via pull request to
 
 ## Are you a student intending to apply to participate in GSoC with Mozilla? 
 
-Your first stop should be to look over the /proposals/ folder. Not all of those ideas will make the cut; it could be that they are not properly defined, the wrong size, or don't have a mentor, and that makes them less likely to get accepted. We may simply be awarded fewer GSoC slots than we have projects. 
+Your first step should be to look over the /proposals/ folder. Not all of those ideas will make the cut; it could be that they are not properly defined, the wrong size, or don't have a mentor, and that makes them less likely to get accepted. We may simply be awarded fewer GSoC slots than we have projects. 
 
 You can, of course, also submit your own ideas - an idea doesn't need to originate within Mozilla or be 'made official' in order to be viable, but a proposal *must have* a mentor, a defined outcome of reasonable scope, and a calendar with meaningful milestones to have a shot at acceptance.
 
