@@ -1,6 +1,6 @@
 # Mozilla and GSoC 2020
 
-I'm pleased to announce that Mozilla has been accepted as a mentoring organization in the 2020 Google Summer Of Code, and would like express our gratitude to everyone on the GSoC team for their continued support.
+I'm pleased to announce that Mozilla has been accepted as a mentoring organization in the 2020 Google Summer Of Code, and would like to express our gratitude to everyone on the GSoC team for their continued support.
 
 This is the first year that we've organized Mozilla's application to GSoC on Github. Mozilla community members, please put your ideas in the */proposals/* directory, in some suitably-titled file, so that we can evaluate them and polish them up.
 
