@@ -26,6 +26,9 @@ The steps to complete the project are roughly outlined below:
     * (~4 weeks) Implement basic UI for displaying web compatibility information in the CSS Rules panel.
 * Phase 3 (July 17 - ~August 17)
     * (~4 weeks) Stabilize and refine feature. Adding telemetry to track usage for feature.
+    
+### UI mock-up
+![browser_compat_tooltip](https://user-images.githubusercontent.com/14285585/75567604-cd1df500-5a1f-11ea-887f-aa4a54d84257.png)
 
 ## Additional Information
 * Student will be submitting their work for code review on [Mozilla’s Phabricator](https://wiki.mozilla.org/Phabricator) instance.
