@@ -20,7 +20,7 @@ With all that in mind, we're now accepting project proposals,via pull request to
 
 ## Are you a student intending to apply to participate in GSoC with Mozilla? 
 
-Your first stop should be to look over the /proposals/ folder. Not all of those ideas will make the cut; it could be that they are not properly defined, the wrong size, or don't have a mentor, and that makes them less likely to get accepted. We may simply be awarded fewer GSoC slots than we have projects. 
+Your first step should be to look over the /proposals/ folder. Not all of those ideas will make the cut; it could be that they are not properly defined, the wrong size, or don't have a mentor, and that makes them less likely to get accepted. We may simply be awarded fewer GSoC slots than we have projects. 
 
 We see a lot of questions about what tasks or bugs students can be assigned in the leadup to GSoC, and while we're grateful for the enthuiasm we would like to discourage pepole from taking that approach. While it would be helpful for us to be able to assess applicants' skills ahead of time and we always want to be open to new contributors' help, we don't want to treat our GSOC projects as a prizes you might win if you volunteer hard enough. Asking people to labor performatively is unfair and exploitative, and that is not how we intend to operate or who we want to be. 
 
