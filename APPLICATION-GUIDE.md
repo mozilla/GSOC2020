@@ -79,6 +79,12 @@ demonstrated ability or relevant experience. While you may be willing to work
 hard, people with experience work hard too, so this argument does not hold a 
 lot of water. 
 
+* Bear in mind that project mentors at Mozilla are doing this work in addition
+to their usual full time jobs, and may not be able to respond to your inquiries
+immediately. At this time of year we get - to put it mildly - a lot of email, so
+the more clear and concise you can make your inquiries the easier they'll be
+to answer.
+
 * Finally, please double check that your application is *actually finished*.
 We've had a number of students with "FIXME" or "TODO" in their final applications,
 which we have to disqualify, however good the part that's already done looks.
