@@ -36,11 +36,15 @@ project diagrams and work schedules, breaking down projects into their
 deliverable components and describing the timelines on which these
 components might be shipped.
 
-This isn't necessarily the schedule we'd hold a successful applicant to,
-but we *need to see something realistic* here. Writing software is hard
+This isn’t necessarily the schedule we’d hold a successful applicant
+to or even how the final project will end up looking; scope changes
+are normal and you will ultimately work with your team to determine 
+the best path forward. What’s important here is that *we see your 
+ability to sketch out a realistic work plan.* Writing software is hard
 and scheduling software is harder, and our priority in this is to set
 up these projects and the people participating in them for a successful
-summer.
+summer. We consider this step to be an important leading indicator of
+that success.
 
 Strong applications also note that you've made other choices outside
 GSoC that are roughly aligned, in some way, with the project itself.
