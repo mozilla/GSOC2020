@@ -10,7 +10,7 @@ it might be helpful for us in assessing applicants' abilities - and we
 always want to be open to new contributors - we also don't want to treat
 GSOC acceptance as a prize you might win if you volunteer hard enough.
 You are always welcome to download our code and learn about our teams,
-produtrs and build processes but as a participant the best approach is
+products and build processes but as a participant the best approach is
 to use what you learn to inform an excellent GSOC proposal, not to think
 that you need to rack up "points" in order to be considered.
 
