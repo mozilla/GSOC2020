@@ -78,7 +78,7 @@ application, we are likely to think that you haven't given this the thought
 it probably requires. If you've overlooked formatting errors or template residue
 in your application, what does that say about your code?
 
-* Suggest that hard work and enthuisasm can overcome a complete absence of 
+* Suggest that hard work and enthusiasm can overcome a complete absence of 
 demonstrated ability or relevant experience. While you may be willing to work
 hard, people with experience work hard too, so this argument does not hold a 
 lot of water. 
