@@ -1,8 +1,8 @@
 # Debugging unwanted scrollbars in DevTools
 
-**Mentors:** Patrick Brosset and Brad Werth
+**Mentors:** Brad Werth
 
-**Emails:** pbrosset@mozilla.com, bwerth@mozilla.com
+**Emails:** bwerth@mozilla.com
 
 ## Project Description
 
