@@ -8,7 +8,7 @@
 ## Project Description
 
 [Fx-sig-verify][fxsigverify] is an AWS lambda function written in Python 2.
-It provides an independant check that every Firefox Installer available for
+It provides an independent check that every Firefox Installer available for
 download from Mozilla is signed with the correct key.
 
 The project needs to be ported to Python 3, and other validations added. These
