@@ -24,8 +24,7 @@ Nice to have experience:
 
 ## Project Details
 
-The [subBeta project](https://docs.google.com/document/d/1Ygz6MkudYHZjnDnD9Z97kUyFrvV3KGWsjXyPjddhHq0/edit#heading=h.lvb9l8gw2nee)
-attempts to utilize prerelease versions of Firefox to inform Release behavior and characteristics _before_ it has been 
+The subBeta project attempts to utilize prerelease versions of Firefox to inform Release behavior and characteristics _before_ it has been 
 launched to the general public (e.g., forecasting). It circumvents issues regarding differing user populations 
 between the channels by novel applications of 
 [statistical matching](https://en.wikipedia.org/wiki/Matching_(statistics)) techniques. This project would assist 
@@ -35,7 +34,7 @@ in two fronts:
 various metrics (e.g., User country, User machine characteristics). 
 
 Currently, the subBeta project has investigated forecasting 
-[performance metrics](https://docs.google.com/document/d/1W-EREsJLuRvTPvGXaW71FvuAGXkoLNDZmZl-sbaeMZM/edit#). However,
+performance metrics. However,
 there are parallel efforts to address user engagement metrics. This project would support these and additional use 
 cases.
 
