@@ -10,7 +10,7 @@ Implement a Kiosk mode for the Common Voice platform.
 
 ## Skills Required
 
-The ideal should be familiar with the following technologies:
+The ideal applicant should be familiar with the following technologies:
 
 * HTML5/CSS3
 * Javascript (experience with NodeJS or React are a bonus)
@@ -42,4 +42,4 @@ Here is a rough expected timeline for 12 weeks of work:
 
 ## Additional Information
 
-Student must be located in a North American timezone, ideally EST. If student is located in Toronto they will be able to come into the office and work directly with mentor.
+Applicants from around the world are invited to apply, but you **must** be able to overlap with Eastern Standard Time working hours (9AM-6PM) for at least 2-3 hours each working day so that you can communicate effectively with the mentor.
