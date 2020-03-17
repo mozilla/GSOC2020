@@ -44,3 +44,14 @@ That said, there are a lot of moving parts to the Mozilla project, and figuring 
 
 * Participants in any Mozilla project are expected to respect and uphold the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 * The [GSoC FAQ](https://developers.google.com/open-source/gsoc/faq)
+* In light of the institutional closures resulting from COVID-19, we have consulted with the GSOC Support Team to find out what the "proof of registration" requirement for applicants specifically means. Their response was: 
+
+    If you do not have one of the other acceptable forms of Proof of Enrollment (school ID, transcript) you can submit something with a recent date on it with your name and school name somewhere on the form such as:
+ 
+    * Your most recent semester exam schedule or syllabus 
+    * Your most recent semester grade sheet
+    * The receipt showing you paid for this semester
+    * The letter showing your scholarship/financial aid etc covers this semester in early 2020
+
+    And it is fine to markout the grades or the funding or other personal details (we just need to see your name, your school name and the recent date on there).
+    Our team does not review proof of enrollment documents via email. Your documents will be reviewed after March 31 and the team will let you know at that time if your submission was not accepted. You will be able to submit a new proof of enrollment if the first one is not accepted by our team. 
