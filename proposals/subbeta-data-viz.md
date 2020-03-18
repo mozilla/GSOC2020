@@ -1,4 +1,4 @@
-# GSOC 2020 Proposal Template. Put your proposal name here
+# subBeta Data Visualization
 
 **Mentor:** Corey Dow-Hygelund
 
