@@ -1,4 +1,4 @@
-# Integrate additional options for 2FA on Firefox Account
+# Integrate FIDO2 authentication for 2FA on Firefox Account
 
 **Mentor:** Vijay Budhram
 
@@ -6,7 +6,7 @@
 
 ## Project Description
 
-To better help protect Firefox Account (FxA) users, we want to integrate an additional 2FA method.
+To better help protect Firefox Account (FxA) users, we want add FIDO2 authentication as a second authentication factor.
 Currently, FxA only supports one 2FA method via an [OTP code](https://en.wikipedia.org/wiki/One-time_password).
 If a user loses access to the associated authenication device, possibly through
 getting a new phone, they could get locked out of their account.
@@ -25,7 +25,6 @@ Applicants needs:
 
 ## Project Details
 
-The new 2FA method is still under discussion however this project would include addin database tables, webservices and UX to support the
-new 2FA method.
+The new 2FA method will involve integrating FIDO2 authentication which includes adding database tables, webservices and UX to support the new feature. Please reference the [feature doc](https://docs.google.com/document/d/1RhwkeYJRvYZKRvtjVb-5N9KnJfwE2CwVTYT9FYwIpNY/edit#) to get more ideas on the proposal.
 
-To get started, you can check out the [FxA repo](https://github.com/mozilla/fxa)
+To get started with Firefox Account, you can check out the [FxA repo](https://github.com/mozilla/fxa)
