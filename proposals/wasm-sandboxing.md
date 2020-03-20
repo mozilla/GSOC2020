@@ -4,6 +4,8 @@
 
 **Email:** deian@cs.ucsd.edu, erahm@mozilla.com, nfroyd@mozilla.com
 
+**Chat:** [#rlbox:mozilla.org on Matrix](https://matrix.to/#/!mEYAmHgEjbGLpuBLWh:mozilla.org?via=mozilla.org)
+
 ## Project Description
 
 Sandbox libraries using WebAssembly to reduce Firefox's attack surface.
