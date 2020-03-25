@@ -27,19 +27,19 @@ The ideal applicant should possess the following:
 
 ## Project Details
 
-Common Voice is a crowdsourcing platform for collecting and aggregating voluntary voice clips. The team frequently attends conferences, events, and community gatherings to demo the project and to encourage participation. Right now the website is neither optimized for a tablet view, nor does it have a demo-friendly workflow.
+Common Voice is a crowdsourcing platform for collecting and aggregating voluntary voice clips. The team frequently attends conferences, events, and community gatherings to demo the project and to encourage participation. Right now the website is neither optimized for a tablet view nor does it have a demo-friendly workflow.
 
 Sample designs for a Kiosk mode can be [seen on Figma (not finalized)](https://www.figma.com/file/noKMY6aOXz9vwxlkO0XZEl/kiosk-mode-demo-tablet?node-id=0%3A1). The actual implementation details will be determined in collaboration between the student and the mentor (one possibility includes building a PWA).
 
 Here is a rough expected timeline for 12 weeks of work:
 
 * ~1 week: project setup, learning the codebase, meeting the team
-* ~2 weeks: scoping out project, researching and determining best approach
-* ~2 weeks: working with UX leads to finalize desings
+* ~2 weeks: scoping out the project, researching and determining the best approach
+* ~2 weeks: working with UX leads to finalize designs
 * ~4 weeks: active development based on finalized designs
 * ~2 weeks: QA and refinement
 * ~1 week: documentation, product demo, retrospective
 
 ## Additional Information
 
-Applicants from around the world are invited to apply, but you **must** be able to overlap with Eastern Standard Time working hours (9AM-6PM) for at least 2-3 hours each working day so that you can communicate effectively with the mentor.
+Applicants from around the world are invited to apply, but you **must** be able to overlap with Eastern Standard Time working hours (9 AM-6 PM) for at least 2-3 hours each working day so that you can communicate effectively with the mentor.
