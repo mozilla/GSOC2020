@@ -1,8 +1,8 @@
 # Server Sent Events Inspector
 
-**Mentor:** Jan Honza Odvarko
+**Mentor:** Jan Honza Odvarko, Hubert Boma Manilla, David Walsh
 
-**Email:** honza@mozilla.com
+**Email:** honza@mozilla.com, hmanilla@mozilla.com, dwalsh@mozilla.com
 
 
 ## Project Description
