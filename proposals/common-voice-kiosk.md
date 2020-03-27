@@ -4,6 +4,8 @@
 
 **Email:** jennyzhang@mozilla.com
 
+**Back-up mentor:** Riley Shaw
+
 ## Project Description
 
 Implement a Kiosk mode for the Common Voice platform.
