@@ -1,8 +1,8 @@
 # DevTools WebConsole search
 
-**Mentor:** Nicolas CHEVOBBE
+**Mentor:** Nicolas Chevobbe, Jan Odvarko, Jason Laster
 
-**Email:** nchevobbe@mozilla.com
+**Email:** nchevobbe@mozilla.com, honza@mozilla.com, jlaster@mozilla.com
 
 
 ## Project Description
