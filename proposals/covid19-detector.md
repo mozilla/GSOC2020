@@ -1,8 +1,8 @@
 # Build For COVID19
 
-**Mentor:** Nadav, Ankur, Manuel, Franklin
+**Mentor:** Karan Sapolia, Laura Morinigo, Bhavya Aggarwal
 
-**Email:** nadav@link-big.com, ankur.nairit@gmail.com, manu.derra@gmail.com, franklinezeji@gmail.com
+**Email:** sapoliakaran@gmail.com, laura.s.morinigo@gmail.com, bhavyaaggarwal1209@gmail.com,
 
 ## Project Description
 
