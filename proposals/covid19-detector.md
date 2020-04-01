@@ -1,8 +1,8 @@
 # Build For COVID19
 
-**Mentor:** Karan Sapolia, Laura Morinigo, Bhavya Aggarwal
+**Mentor:** Nicolas Chevobbe, Jan Odvarko, Jason Laster, Florian Merz, Anne van Kesteren Sapolia
 
-**Email:** sapoliakaran@gmail.com, laura.s.morinigo@gmail.com, bhavyaaggarwal1209@gmail.com,
+**Email:** nchevobbe@mozilla.com, honza@mozilla.com, jlaster@mozilla.com, fmerz@mozilla.com, annevk@annevk.nl
 
 ## Project Description
 
