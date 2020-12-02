@@ -9,7 +9,7 @@ This is the first year that we've organized Mozilla's application to GSoC on Git
 As usual this will be an opportunity to coach a smart student through three months of work on an interesting but non-critical-path project that is open to any part of Mozilla, provided: 
 
 * the project is primarily a coding project, 
-* the proposal is well-scoped with clearly defined progress milestones and outcomes, taking roughly 3 months of effort for a capable student, and 
+* the proposal is well-scoped with clearly defined progress milestones and outcomes, taking roughly 3 months of effort  for a capable student.
 * there is a mentor specifically assigned to the project who is available for the duration of GSoC.
 
 You may already have a student in mind for a specific project already; if so, please start that discussion now. The sooner we have well-specified project ideas lined up with potential mentors, the better. 
